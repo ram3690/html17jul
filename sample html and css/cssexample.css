@@ -1,0 +1,13 @@
+head{
+    background-color:#ffff00;
+   
+}
+body{
+    background-color:#ff0000;
+    background-image: url("bg.jpg");
+    background-size: 100%; 
+    color:white;
+}
+p{
+    font-size: 100%;
+}

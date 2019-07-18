@@ -1,0 +1,32 @@
+
+.tableheader{
+    background-color:"red";
+    color:"white";
+}
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    color:blue;
+    width: 75%;
+}
+#email{
+    font-weight:bold;
+}
+ td, th {
+ border:1px solid red;
+  text-align: left;
+ padding: 8px;
+  }
+  body{
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-image:url("bg.jpg");
+    background-image:url("bg2.jpg");
+    background-position:top left,top right;
+  
+  }
+            
+            tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+            
